@@ -1,5 +1,5 @@
 ### Hi there 👋
-Physicist/ Enginner
+Physicist/ Engineer
 
 - 🌱 I’m currently learning Software and Web Developments Tools
 - 🤔 I’m looking to work with Software /Web Developers to enhanced my skills
